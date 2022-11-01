@@ -1,6 +1,6 @@
 {
-	"ip":"damermc.aternos.me",
-	"port": 59188,
+	"ip":"EvillServer.aternos.me",
+	"port": 48035,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
